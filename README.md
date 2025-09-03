@@ -1,6 +1,6 @@
 🎮 Brickscy Game Studio
 
-Brickscy Game Studio, pygame tabanlı oyun nesneleri oluşturmanı ve test etmeni sağlayan basit ama güçlü bir 2D oyun editörüdür.
+Brickscy Game Studio, pygame tabanlı oyun nesneleri oluşturmanı ve test etmeni sağlayan basit ama güçlü bir 2D oyun editörüdür. tamamen Açık kaynak kodludur.
 Kendi oyun dünyanı oluşturabilir, nesneler ekleyebilir, düzenleyebilir ve tek tuşla test edebilirsin.
 
 ✨ Özellikler
